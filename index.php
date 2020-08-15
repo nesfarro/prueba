@@ -71,6 +71,7 @@ include "controller/controlador.php";
 
          <button type="button" class="btn btn-info btn-lg" style="display:none !important" data-toggle="modal" data-target="#miModal">Abrir Modal</button>
 
+
          <div id="miModal" class="modal fade" role="dialog">
             <div class="modal-dialog">
                <!-- Contenido del modal -->
